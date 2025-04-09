@@ -48,7 +48,7 @@ mv message.txt backup/
 
 ```
 ## Task 3: Process and Disk Usage
-###🖥️ Scenario:
+### 🖥️ Scenario:
 Your system is running slow. You want to:
 
 Check which processes are currently running.
