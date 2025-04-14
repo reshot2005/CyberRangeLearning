@@ -1,6 +1,6 @@
 # 📘 Day 02: Linux Basics – Custom Commands & IP Info
 
-Welcome to Day 01 of my Linux learning journey! 🚀  
+
 The focus for today was on exploring **basic Linux commands**, particularly around **networking** and **custom command creation**.
 
 
